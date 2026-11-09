@@ -451,19 +451,19 @@ body.dark-mode .icon-sun {
 }
 
 .project-img-1 {
-    background-image: url("./img/Screenshot 2026-05-18 120431.png");
+    background-image: url(".idea/img/Screenshot 2026-05-18 120431.png");
     background-size: cover;
     background-position: center;
 }
 
 .project-img-2 {
-    background-image: url("./img/Screenshot 2026-10-02 141008.png");
+    background-image: url(".idea/img/Screenshot 2026-10-02 141008.png");
     background-size: cover;
     background-position: center;
 }
 
 .project-img-3 {
-    background-image: url("./img/sims.png");
+    background-image: url(".idea/img/sims.png");
     background-size: cover;
     background-position: center;
 }
